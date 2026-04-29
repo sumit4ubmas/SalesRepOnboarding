@@ -1,0 +1,14 @@
+Type,ID,TrainingType,Title,Order,EstimatedMinutes,RequiredFlag,Question,OptionA,OptionB,OptionC,OptionD,Correct,Explanation
+Module,M001,Product,Why Plum POS,1,8,true,,,,,,,
+Module,M002,Product,Hardware 101,2,8,true,,,,,,,
+Module,M003,Product,Order Taking,3,8,true,,,,,,,
+Module,M004,Product,Manager Tools,4,8,true,,,,,,,
+Module,M005,Product,Administration,5,9,true,,,,,,,
+Module,M006,Product,Competitive Edge,6,9,true,,,,,,,
+Module,M101,D2D,Approach,1,7,true,,,,,,,
+Module,M102,D2D,Discovery,2,7,true,,,,,,,
+Module,M103,D2D,Pitch,3,8,true,,,,,,,
+Module,M104,D2D,Closing,4,8,true,,,,,,,
+Module,M105,D2D,Objections (ACE),5,7,true,,,,,,,
+Module,M106,D2D,Pro Tips,6,8,true,,,,,,,
+Question,Q001,Product,Certification,1,0,true,What is Plum's strongest value proposition?,Fast support,Lowest quality,No onboarding,None,A,Supports quick deployment and support.
